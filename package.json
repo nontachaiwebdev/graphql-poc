@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nontachaiwebdev/graphql-poc/issues"
   },
-  "homepage": "https://github.com/nontachaiwebdev/graphql-poc#readme"
+  "homepage": "https://github.com/nontachaiwebdev/graphql-poc#readme",
+  "dependencies": {
+    "graphql": "^14.0.2"
+  }
 }
